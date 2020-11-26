@@ -1,0 +1,23 @@
+{
+  "name": "My Portfolio",
+  "short_name": "MP",
+  "description": "Aplikasi portfolio pribadi dengan mempraktekan PWA",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff8e1",
+  "theme_color": "#757575",
+  "icons": [{
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "maskable_icon.png",
+      "sizes": "393x393",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+
+  ]
+}
